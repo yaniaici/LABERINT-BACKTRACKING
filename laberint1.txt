@@ -1,0 +1,8 @@
+7, 9, 3, 3, 1, 6
+NA, NA, NA, NA, NA, NA, NA, NA, NA
+NA, NA, NA, -1, /2, +1, NA, NA, NA
+NA, -7, NA, *3, NA, +2, +1, -1, NA
+NA, +4, *2, +8, +3, +7, -1, +4, NA
+NA, +9, -2, +5, -1, +9, NA, -2, NA
+NA, /1, *7, NA, NA, +4, NA, NA, NA
+NA, NA, NA, NA, NA, NA, NA, NA, NA
